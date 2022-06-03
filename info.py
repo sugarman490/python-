@@ -1,0 +1,13 @@
+info=[{
+    "name":"电影a",
+    "number":"1",
+},
+{
+    "name":"电影b",
+    "number":"2",
+},
+{
+    "name":"电影c",
+    "number":"3",
+}
+]
